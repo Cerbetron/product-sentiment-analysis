@@ -1,4 +1,4 @@
-# Intel Products Sentiment Analysis Project
+# Intel Products Sentiment Analysis Project BY VIT CHENNAI
 ### PS-11 Intel Products Sentiment Analysis from Online Reviews
 ## Overview
 This project scrapes Amazon reviews for Intel processors, pre-processes the data, and applies machine learning techniques for sentiment analysis. We integrated Term Frequency-Inverse Document Frequency (TF-IDF) vectorization with Logistic Regression and utilized Word2Vec embeddings within a Long Short-Term Memory (LSTM) architecture for enhanced semantic understanding. Our workflow includes tokenization, cleaning with the Natural Language Toolkit (NLTK), feature extraction using TF-IDF, and model training with Keras. Key takeaways on processor strengths and weaknesses were compiled for Intel engineers, along with performance analyses between Transformer and LSTM models. Additionally, word clouds and graphs were created to visualize insights, providing valuable data-driven perspectives.
